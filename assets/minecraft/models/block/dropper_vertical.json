@@ -2,6 +2,6 @@
     "parent": "block/orientable_vertical",
     "textures": {
         "front": "block/dropper_front_vertical",
-        "side": "block/observer_top"
+        "side": "block/furnace_top"
     }
 }

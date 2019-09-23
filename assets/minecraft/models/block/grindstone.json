@@ -5,7 +5,7 @@
         "round": "block/grindstone_round",
         "side": "block/grindstone_side",
         "particle": "block/grindstone_side",
-        "leg": "block/spruce_planks"
+        "leg": "block/dark_oak_log"
     },
     "elements": [
         {
